@@ -21,3 +21,4 @@
  - Implements a custom color palette system for vibrant visualizations.
 
  - Uses ASCII character sets to represent different "depth" levels in the fractal.
+
